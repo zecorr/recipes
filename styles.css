@@ -1,0 +1,19 @@
+body {
+    background-color: #549292;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 310px;
+    height: auto;
+}
+
+.fix-height {
+    height: 310px;
+}
+
+.center-text {
+    text-align: center;
+}
