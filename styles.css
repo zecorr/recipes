@@ -17,3 +17,7 @@ body {
 .center-text {
     text-align: center;
 }
+
+.fancy {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
