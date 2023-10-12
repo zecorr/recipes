@@ -1,5 +1,8 @@
 body {
-    background-color: #549292;
+    background-color: #081d1d;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgba(255, 255, 255, 0.781);
 }
 
 .center {
@@ -20,4 +23,15 @@ body {
 
 .fancy {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    border: 2px solid #275458;
+
+}
+
+.testing {
+    text-align: center;
+    display:inline-table;
+    margin-left: auto;
 }
